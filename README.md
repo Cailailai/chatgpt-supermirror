@@ -1,4 +1,4 @@
-# 【10月持续更新】国内ChatGPT-4o中文镜像网站整理
+# 【25年3月持续更新】国内ChatGPT-4o中文镜像网站整理
 ## 一、什么是镜像中文站
 
 国内镜像中文网站是指将ChatGPT模型和相关资源通过端口连接到一个位于国内的服务器上，这个服务器可以自由访问。在这个国内服务器上，Chat GPT模型会进行相关的解析并生成回答文本，再将回答传送回国内的服务器上，并在国内网站上向使用者反馈。与官方版的Chat GPT相比，国内镜像中文网站提供的效果是完全一致的。
@@ -7,11 +7,10 @@
 
 ### 一）国内GPT
 
-①[givemegpt.top](https://givemegpt.top)-GPT4.0、GPT4o，支持MidJourney绘画
+①[songshugpt.com](https://songshugpt.com)-GPT4.0、GPT4o，支持MidJourney绘画
 
 ②[gptdog.online](http://gptdog.online)
 
-③[songshugpt.com](songshugpt.com)
 
 ### 二）国内自研大模型汇总：
 
