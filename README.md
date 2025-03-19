@@ -14,17 +14,17 @@
 
 ### 二）国内自研大模型汇总：
 
-①yiyan.baidu.com/ - 文心一言，百度出品
+①[yiyan.baidu.com/](yiyan.baidu.com/) - 文心一言，百度出品
 
-②tongyi.aliyun.com/ - 通义千问，阿里出品
+②[tongyi.aliyun.com/](tongyi.aliyun.com/) - 通义千问，阿里出品
 
-③techday.sensetime.com/ - 商量，商汤科技出品
+③[techday.sensetime.com/](techday.sensetime.com/) - 商量，商汤科技出品
 
-④tiangong.kunlun.com/ - 天工AI助手，天工大模型
+④[tiangong.kunlun.com/](tiangong.kunlun.com/) - 天工AI助手，天工大模型
 
-⑤xinghuo.xfyun.cn/ - 讯飞星火认知大模型
+⑤[xinghuo.xfyun.cn/](xinghuo.xfyun.cn/) - 讯飞星火认知大模型
 
-⑥moss.fastnlp.top/ - Moss，复旦团队出品
+⑥[moss.fastnlp.top/](moss.fastnlp.top/) - Moss，复旦团队出品
 
 # 三、AI提问小技巧
 
